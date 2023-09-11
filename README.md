@@ -6,6 +6,8 @@
 <li> :soccer: e no tempo livre assisto meu time</li>
 </ul>
 
+<br>
+
 <p>
   <a href="https://github.com/jvictorbfr/github-readme-stats"><img alt="jvictorbfr's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jvictorbfr&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br>
