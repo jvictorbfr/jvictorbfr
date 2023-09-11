@@ -9,23 +9,22 @@
 <br>
 
 <p>
-  <a href="https://github.com/jvictorbfr/github-readme-stats"><img alt="jvictorbfr's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jvictorbfr&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br>
-  <a href="https://github.com/jvictorbfr/github-readme-stats"><img alt="jvictorbfr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorbfr&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/jvictorbfr/github-readme-stats"><img alt="jvictorbfr's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jvictorbfr&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="160em"/></a>
+  <a href="https://github.com/jvictorbfr/github-readme-stats"><img alt="jvictorbfr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorbfr&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="160em"/></a>
 </p>
 
 ## conhecimentos
 <div style="display: inline_block">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <br>
 
 ## estudando
 <div style="display: inline_block">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <br>
