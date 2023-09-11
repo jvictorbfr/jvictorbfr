@@ -32,7 +32,7 @@
 
 ## contatos 
   <p>
-    <a href="https://www.linkedin.com/jvfas">
+    <a href="https://www.linkedin.com/in/jvfas/>
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
     <a href="mailto:joaovictorfas21@gmail.com">
