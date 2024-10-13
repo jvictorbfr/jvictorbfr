@@ -1,7 +1,7 @@
 # Prazer, sou o João! :call_me_hand:
 
 <ul>
-<li> :birthday: 19 anos</li>
+<li> :birthday: 21 anos</li>
 <li> :computer: Cursando ciência da computação</li>
 <li> :soccer: No tempo livre assisto meu time</li>
 </ul>
